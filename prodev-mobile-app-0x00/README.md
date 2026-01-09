@@ -1,4 +1,4 @@
 # Create Your First Mobile App
 
-This project documents the setup of an Expo Router application,
-modification of the home screen, and project reset observations.
+This project documents the creation of a mobile application using
+Expo Router, modification of the home screen, and project reset behavior.
