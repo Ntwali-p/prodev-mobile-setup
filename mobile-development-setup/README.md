@@ -60,3 +60,16 @@ To verify the setup:
 npx create-expo-app test-app
 cd test-app
 npx expo start
+# 1. Create Your First Mobile App (Expo Router)
+
+## 📌 Objective
+
+The objective of this task is to scaffold a React Native mobile application using the **Expo Router template**, explore the generated file structure, modify the home screen, and understand the effect of resetting the project.
+
+---
+
+## 🚀 Project Scaffolding Steps
+
+1. Navigated to the parent project directory:
+   ```bash
+   cd prodev-mobile-setup
